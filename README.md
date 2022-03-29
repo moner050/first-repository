@@ -29,3 +29,4 @@ animals.append('kangaroo')
   
 ![A man is on the chair](/imgs/man-on-the-chair.jpg)
 
+## Novice Developer
